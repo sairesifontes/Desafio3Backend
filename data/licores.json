@@ -1,0 +1,225 @@
+[
+{
+    "id": 1433,
+    "nombre": "Cerveza Andes",
+    "precio": 850,
+    "categoria": "cervezas",
+    "contenidoMl": 473,
+    "imagen": "./img/cervezaAndes.png"
+},
+{
+    "id": 1454,
+    "nombre": "Cerveza Amber",
+    "precio": 850,
+    "categoria": "cervezas",
+    "contenidoMl": 473,
+    "imagen": "./img/cerveza amber.png"
+},
+{
+    "id": 1524,
+    "nombre": "Cerveza Quilmes",
+    "precio": 630,
+    "categoria": "cervezas",
+    "contenidoMl": 473,
+    "imagen": "./img/cervezaQuilmes.png"
+},
+{
+    "id": 1958,
+    "nombre": "Cerveza Corona",
+    "precio": 630,
+    "categoria": "cervezas",
+    "contenidoMl": 330,
+    "imagen": "./img/cervezaCorona.png"
+},
+{
+    "id": 1212,
+    "nombre": "Cerveza Stella Artois",
+    "precio": 400,
+    "categoria": "cervezas",
+    "contenidoMl": 269,
+    "imagen": "./img/cervezaStella.png"
+},
+{
+    "id": 2523,
+    "nombre": "Cerveza Brahma Dorada",
+    "precio": 450,
+    "categoria": "cervezas",
+    "contenidoMl": 269,
+    "imagen": "./img/cervezaBrahma.png"
+},
+    {
+    "id": 1048,
+    "nombre": "Cerveza Heineken",
+    "precio": 820,
+    "categoria": "cervezas",
+    "contenidoMl": 473,
+    "imagen": "./img/CervezaHeineken.png"
+},
+{
+    "id": 1545,
+    "nombre": "Cerveza Schneider",
+    "precio": 700,
+    "categoria": "cervezas",
+    "contenidoMl": 473,
+    "imagen": "./img/CervezaSchneider.png"
+},
+{
+    "id": 3048,
+    "nombre": "Vino Tinto Trumpeter",
+    "precio": 2500,
+    "categoria": "vinos",
+    "contenidoMl": 375,
+    "imagen": "./img/vinoTRUMPETER.png"
+},
+{
+    "id": 1513,
+    "nombre": "Vino Cosecha Tardia",
+    "precio": 2500,
+    "categoria": "vinos",
+    "contenidoMl": 700,
+    "imagen": "./img/vinoCosechaTardia.png"
+},
+{
+    "id": 3025,
+    "nombre": "Vino El Enemigo",
+    "precio": 19000,
+    "categoria": "vinos",
+    "contenidoMl": 750,
+    "imagen": "./img/vinoElEnemigo.png"
+},
+{
+    "id": 3124,
+    "nombre": "Vino Luigi Bosca",
+    "precio": 4500,
+    "categoria": "vinos",
+    "contenidoMl": 750,
+    "imagen": "./img/vinoLuigiBosca.png"
+},
+{
+    "id": 1213,
+    "nombre": "Vino Toro Clásico 700ml",
+    "precio": 2500,
+    "categoria": "vinos",
+    "contenidoMl": 700,
+    "imagen": "./img/vinoToroClasico.png"
+},
+{
+    "id": 1515,
+    "nombre": "Vino Blanco Marló 700ml",
+    "precio": 2800,
+    "categoria": "vinos",
+    "contenidoMl": 700,
+    "imagen": "./img/vinoBlancoMarlo.png"
+},
+{
+    "id": 3811,
+    "nombre": "Vino Tinto Los Intocables",
+    "precio": 3500,
+    "categoria": "vinos",
+    "contenidoMl": 750,
+    "imagen": "./img/vinoLosIntocables.png"
+},
+{
+    "id": 3248,
+    "nombre": "Vino Escorihuela",
+    "precio": 18000,
+    "categoria": "vinos",
+    "contenidoMl": 750,
+    "imagen": "./img/vinoEscorihuela.png"
+},
+{
+    "id": 1584,
+    "nombre": "Vodka Skyy Original 750ml",
+    "precio": 3200,
+    "categoria": "vodka",
+    "contenidoMl": 750,
+    "imagen": "./img/vodkaSkyy.png"
+},
+{
+    "id": 1585,
+    "nombre": "Vodka Skyy Apricot 750ml",
+    "precio": 3200,
+    "categoria": "vodka",
+    "contenidoMl": 750,
+    "imagen": "./img/vodkaSkyyApricot.png"
+},
+{
+    "id": 1586,
+    "nombre": "Vodka Skyy Coconut 750ml",
+    "precio": 3200,
+    "categoria": "vodka",
+    "contenidoMl": 750,
+    "imagen": "./img/vodkaSkyyCoconut.png"
+},
+{
+    "id": 1555,
+    "nombre": "Vodka Skyy Passion 750ml",
+    "precio": 3200,
+    "categoria": "vodka",
+    "contenidoMl": 750,
+    "imagen": "./img/vodkaSkyyPassion.png"
+},
+{
+    "id": 1588,
+    "nombre": "Vodka Skyy Raspberry 750ml",
+    "precio": 3200,
+    "categoria": "vodka",
+    "contenidoMl": 750,
+    "imagen": "./img/vodkaSkyyRaspberry.png"
+},
+{
+    "id": 2811,
+    "nombre": "Vodka Absolut 700ml",
+    "precio": 8600,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaAbsolut.png"
+},
+{
+    "id": 2655,
+    "nombre": "Vodka Smirnoff Original 700ml",
+    "precio": 3500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSmirnoffOriginal.png"
+},
+{
+    "id": 2656,
+    "precio": 3500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSmirnoffCitrus.png"
+},
+{
+    "id": 2657,
+    "nombre": "Vodka Smirnoff Apple 700ml",
+    "precio": 3500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSmirnoffApple.png"
+},
+{
+    "id": 2658,
+    "nombre": "Vodka Smirnoff Watermelon 700ml",
+    "precio": 3500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSmirnoffWaterMelon.png"
+},
+{
+    "id": 1623,
+    "nombre": "Vodka Sernova Apple 700ml",
+    "precio": 2500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSernovaApple.png"
+},
+{
+    "id": 1728,
+    "nombre": "Vodka Sernova WildBerries 700ml",
+    "precio": 2500,
+    "categoria": "vodka",
+    "contenidoMl": 700,
+    "imagen": "./img/vodkaSernovaWildBerries.png"
+}
+]
