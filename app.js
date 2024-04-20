@@ -6,6 +6,7 @@ const PORT = 8080;
 
 app.use(express.json());
 
+
 app.get('/licores', async (req, res) => {
     try {
         const limit = parseInt(req.query.limit) || undefined;
@@ -15,6 +16,8 @@ app.get('/licores', async (req, res) => {
         res.status(500).json({ error: 'Error al obtener los licores' });
     }
 });
+
+
 
 app.get('/licores/:id', async (req, res) => {
     const licorId = req.params.id;
@@ -26,6 +29,8 @@ app.get('/licores/:id', async (req, res) => {
     }
 });
 
+
+//funcion que busca el limite de licores
 async function getLicores(limit) {
     const data = await fs.readFile('./data/licores.json', 'utf-8');
     const licores = JSON.parse(data);
@@ -37,11 +42,13 @@ async function getLicores(limit) {
 }
 
 
+
+//Funcion que busca el licor por id
 async function getLicorById(licorId) {
     const data = await fs.readFile('./data/licores.json', 'utf-8');
     const licores = JSON.parse(data);
-    const id = parseInt(licorId); // Convertir el ID de string a número
-    const licor = licores.find(licor => licor.id === id); // Usar el mismo tipo de dato para la comparación
+    const id = parseInt(licorId); 
+    const licor = licores.find(licor => licor.id === id); 
     if (licor) {
         return licor;
     } else {
